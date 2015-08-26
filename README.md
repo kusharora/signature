@@ -12,8 +12,8 @@
 			<table id="sig2" cellspacing='0' cellpadding='0' border-spacing='0' style="padding:0;margin:0;font-family:'Lucida Grande',sans-serif;font-size:12px;color:#b0b0b0;border-collapse:collapse;-webkit-text-size-adjust:none;">
 				<tr style="margin:0;padding:0;">
 					<td style="margin:0;padding:0;font-family:'Lucida Grande',sans-serif;white-space:nowrap;">
-						<strong><a href="mailto:kush@storycode.in " style="border:none;text-decoration:none;color:#000000;"><span style="color:#000000">KUSH ARORA</span></a></strong><span style="color:000000;">,</span>
-						<strong><span style="color:#b0b0b0;">Co-Founder</span></strong>
+						<strong><span style="color:#000000">KUSH ARORA</span></a></strong><span style="color:000000;">,</span>
+						<span style="color:#b0b0b0;">CO-FOUNDER</span>
 					</td>
 				</tr>
 				<tr style="margin:0;padding:0;color:#b0a49b;">
