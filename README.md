@@ -26,7 +26,7 @@
 				<tr style="margin:0;padding:0;color:#b0a49b;">
 					<td style="margin:0;padding:0;font-family:'Lucida Grande',sans-serif;white-space:nowrap;">
 						<a href="t:+91 9637 855 825" style="text-decoration:none;color:#b0b0b0;"><span style="color:#b0b0b0">t: +91 9637 855 825</span><span style="color:#e0e0e0"></a>
-						<span style="color:e0e0e0;">|</span>
+						<span style="color:e0e0e0;">kush@storycode.in</span>
 						
 					</td>
 				</tr>				        
