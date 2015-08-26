@@ -19,7 +19,7 @@
 				<tr style="margin:0;padding:0;color:#b0a49b;">
 					<td style="margin:0;padding:0;font-family:'Lucida Grande',sans-serif;white-space:nowrap;">
 						<a href="http://storycode.in" style="border:none;text-decoration:none;color:#b0b0b0;"><span style="color:#b0b0b0">Storycode Media LLP<span style="color:#e0e0e0">.</span>com</span></a><span style="color:050505;">,</span>
-						<a href="https://goo.gl/APb6wh" style="border:none;text-decoration:none;color:#b0b0b0;"><span style="color:#b0b0b0">Mumbai/span></a>
+						<a href="https://goo.gl/APb6wh" style="border:none;text-decoration:none;color:#b0b0b0;"><span style="color:#b0b0b0">Mumbai</span></a>
 					</td>
 				</tr>
 				
