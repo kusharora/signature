@@ -13,7 +13,7 @@
 				<tr style="margin:0;padding:0;">
 					<td style="margin:0;padding:0;font-family:'Lucida Grande',sans-serif;white-space:nowrap;">
 						<strong><a href="mailto:kush@storycode.in " style="border:none;text-decoration:none;color:#000000;"><span style="color:#000000">KUSH ARORA</span></a></strong><span style="color:000000;">,</span>
-						<span style="color:#b0b0b0;">Co-Founder</span>
+						<strong><span style="color:#b0b0b0;">Co-Founder</span></strong>
 					</td>
 				</tr>
 				<tr style="margin:0;padding:0;color:#b0a49b;">
